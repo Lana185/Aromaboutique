@@ -152,14 +152,16 @@
  .social{
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    /*gap: 10px;*/
    
-   /* width: 100px;*/
+    width: 100px;
   }
-   .social-item-link{
+    .social-item-link{
     /*display: block;*/
+    padding-top: 220px;
+    margin-left: 20px;
     writing-mode: vertical-rl;
-    transform: rotate(90dec);
+    /*transform: rotate(180dec);*/
 
    }
    .hero-right-side{
