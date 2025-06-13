@@ -112,7 +112,7 @@
     justify-content: center;
  }
 .tel{
- align-items: center;
+    margin-top: -5px;
     margin-left: auto; /*снос к правому краю*/
     margin-right: 40px;
     font-family: 'Open Sans', sans-serif;
